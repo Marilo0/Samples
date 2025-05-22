@@ -1,4 +1,4 @@
-package gr.aueb.cf.revision;
+package gr.aueb.cf.ch10revision;
 
 import static java.lang.Math.abs;
 

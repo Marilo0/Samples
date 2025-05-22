@@ -1,4 +1,4 @@
-package gr.aueb.cf.revision;
+package gr.aueb.cf.ch10revision;
 
 /**
  * Γράψτε μία μέθοδο που δοσμένου ενός string s,

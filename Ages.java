@@ -1,4 +1,4 @@
-package gr.aueb.cf.revision;
+package gr.aueb.cf.ch10revision;
 
 /**
  * Έστω ένας πίνακας ακεραίων aages που συμβολίζει ηλικίες (σε έτη),
